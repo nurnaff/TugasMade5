@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Favourite Movie</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="judul">Judul</string>
+    <string name="submit">Submit</string>
+    <string name="hapus">Hapus</string>
+    <string name="buat_baru">Baru</string>
+</resources>

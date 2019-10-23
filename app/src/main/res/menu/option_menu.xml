@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mSearch"
+        android:title="@string/menu_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        app:showAsAction="collapseActionView|always"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <group android:id="@+id/movie_menu">
+        <item
+            android:id="@+id/mRecomended"
+            android:icon="@drawable/ic_assistant_photo_black_24dp"
+            android:title="@string/menu_recomended" />
+        <item
+            android:id="@+id/mNowPlaying"
+            android:icon="@drawable/ic_movie_black_24dp"
+            android:title="@string/menu_nowplaying" />
+        <item
+            android:id="@+id/mUpcoming"
+            android:icon="@drawable/ic_new_releases_black_24dp"
+            android:title="@string/menu_upcoming" />
+        <item
+            android:id="@+id/mFavorit"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/menu_favorit" />
+
+    </group>
+    <group android:id="@+id/setting_menu">
+        <item
+            android:id="@+id/mLang"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/language" />
+
+        <item
+            android:id="@+id/mNotif"
+            android:icon="@drawable/ic_timer_black_24dp"
+            android:title="@string/notification"
+            android:checkable="true"
+            app:actionLayout="@layout/switch_layout"/>
+
+    </group>
+</menu>

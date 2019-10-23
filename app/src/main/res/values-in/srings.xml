@@ -1,0 +1,27 @@
+<resources>
+    <string name="menu_recomended">Rekomendasi</string>
+    <string name="app_name">Lihat Apa</string>
+    <string name="menu_upcoming">Akan Datang</string>
+    <string name="upcoming">Akan Datang: %1$d (page %2$d/%3$d)</string>
+    <string name="menu_nowplaying">Sedang Diputar</string>
+    <string name="nowplaying">Sedang Diputar: %1$d (page %2$d/%3$d)</string>
+    <string name="menu_search">Pencarian</string>
+    <string name="search_hint">kata kunci</string>
+    <string name="open">Buka</string>
+    <string name="close">Tutup</string>
+    <string name="recomended">Direkomendasikan 20</string>
+    <string name="found">ditemukan %1$d yang cocok (hal. %2$d/%3$d)</string>
+    <string name="previous">%1$d sebelumnya</string>
+    <string name="next">%1$d berikutnya</string>
+    <string name="genre">Genre: %1$s</string>
+    <string name="rating">Penilaian: %1$.1f</string>
+    <string name="popularity">Popularitas: %1$.1f</string>
+    <string name="year">Tahun: %1$s</string>
+    <string name="language">Pilih Bahasa</string>
+    <string name="menu_favorit">Favorit</string>
+    <string name="toast_favorit_added">film ditambahkan sebagai favorit</string>
+    <string name="toast_favorit_removed">film dihapus dari favorit</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="notification">Pengingat</string>
+    <string name="empty_text">Kosong</string>
+</resources>

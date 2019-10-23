@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Lihat Movie</string>
+    <string name="menu_recomended">Recomended</string>
+    <string name="menu_upcoming">Upcoming</string>
+    <string name="upcoming">Upcoming: %1$d (page %2$d/%3$d)</string>
+    <string name="menu_nowplaying">Now Playing</string>
+    <string name="nowplaying">Now Playing: %1$d (page %2$d/%3$d)</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">keywords</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="recomended">Recomended 20:</string>
+    <string name="found">found %1$d matches (page %2$d/%3$d)</string>
+    <string name="previous">Previous %1$d</string>
+    <string name="next">Next %1$d</string>
+    <string name="genre">Genre: %1$s</string>
+    <string name="rating">Rating: %1$.1f</string>
+    <string name="popularity">Popularity: %1$.1f</string>
+    <string name="year">Year: %1$s</string>
+    <string name="language">Select Language</string>
+    <string name="menu_favorit">Favorite</string>
+    <string name="toast_favorit_added">movie added to favorite</string>
+    <string name="toast_favorit_removed">movie removed from favorite</string>
+    <string name="appwidget_text">Favorit Movie</string>
+    <string name="empty_text">Empty</string>
+    <string name="notification">Notification</string>
+</resources>
